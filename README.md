@@ -1,5 +1,2 @@
 # 囲みマス紹介ポスター
-
-## Releases
-
-- [CyberFriday用](https://github.com/kakomimasu/poster/releases/tag/v1.0-CyberFriday)
+![image](https://user-images.githubusercontent.com/47011206/120736543-655e3000-c527-11eb-8612-cf7b5e082296.png)
